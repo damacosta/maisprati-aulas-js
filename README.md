@@ -2,6 +2,7 @@
 
 Este repositório reúne os exercícios desenvolvidos pelo professor Jacques Antunes durante as aulas da formação **Dev Fullstack Júnior**, promovida pela iniciativa **MaisPraTi / Codifica**.
 Os exercícios foram feitos em **JavaScript** e executados com **Node.js**. As entradas de dados foram definidas diretamente no código, conforme orientações das aulas.
+
 ---
 
 ## 🎯 Objetivo
@@ -27,7 +28,7 @@ Praticar e reforçar os conteúdos abordados em aula, como:
 
 ```bash
 git clone https://github.com/damacosta/maisprati-exercicios-modulo-1-js.git
-cd maisprati-node-exercicios
+cd maisprati-exercicios-modulo-1-js
 ```
 
 2. **Instale as dependências:**
