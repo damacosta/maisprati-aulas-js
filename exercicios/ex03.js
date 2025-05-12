@@ -1,1 +1,2 @@
-// Exercício 3 - Encontrar o maior entre três números
+// Exercício 3 - Façam uma calculadoras simples utilizando entrada de usuário.
+
