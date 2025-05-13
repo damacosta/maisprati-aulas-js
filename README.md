@@ -1,4 +1,4 @@
-# 🚀 Exercícios do Módulo 1 - MaisPraTi - Dev Fullstack Júnior
+# 🚀 Exercícios Gerais - MaisPraTi - Dev Fullstack Júnior
 
 Este repositório reúne os exercícios desenvolvidos pelo professor Jacques Antunes durante as aulas da formação **Dev Fullstack Júnior**, promovida pela iniciativa **MaisPraTi / Codifica**.
 Os exercícios foram feitos em **JavaScript** e executados com **Node.js**. As entradas de dados foram definidas diretamente no código, conforme orientações das aulas.
