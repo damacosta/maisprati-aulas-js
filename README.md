@@ -27,8 +27,8 @@ Praticar e reforçar os conteúdos abordados em aula, como:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/damacosta/maisprati-exercicios-modulo-1-js.git
-cd maisprati-exercicios-modulo-1-js
+git clone https://github.com/damacosta/maisprati-exercicios-gerais-js.git
+cd maisprati-exercicios-gerais-js
 ```
 
 2. **Instale as dependências:**
