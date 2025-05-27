@@ -46,8 +46,8 @@ Cada pasta contém:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/damacosta/maisprati-exercicios-gerais-js.git
-cd maisprati-exercicios-gerais-js
+git clone https://github.com/damacosta/maisprati-aulas-js.git
+cd maisprati-aulas-js
 ```
 
 2. **Instale as dependências:**
