@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')()
 
-//Exercício 10 - Criar uma média aritmética com do... while
+//Exercício 11 - Criar uma média aritmética com do... while
 
 // EXECUTAR ESTA SEÇÃO PARA TESTAR A MÉDIA ARITMÉTICA (Versão do Professor 2 - com IF):
 // Essa versão é mais robusta, pois o IF impede a contagem do 0 de parada.
