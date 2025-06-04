@@ -1,0 +1,1 @@
+// Exercício 20 - Calcular diagonal dessa matriz (explicação anterior)
